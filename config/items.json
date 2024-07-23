@@ -1,0 +1,16 @@
+[
+    {
+        "type": "HealthPotion",
+        "uid": 1,
+        "name": "Small Potion",
+        "description": "Heals a small amount of HP.",
+        "healingAmount": 10
+    },
+    {
+        "type": "Weapon",
+        "uid": 2,
+        "name": "Heaven's sword",
+        "description": "A heavenly sword said to have fallen from the sky. Only the chosen may wield this sword.",
+        "damage": 10
+    }
+]
