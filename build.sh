@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the project directories
-SRC_DIRS=("./src/Item" "./src/Player" "./src/Menu" "./src/Monster")
+SRC_DIRS=("./src/Item" "./src/Entity/Player" "./src/Menu" "./src/Entity/Monster")
 MAIN_SRC="app.cpp"
 OUT_DIR="./bin"
 

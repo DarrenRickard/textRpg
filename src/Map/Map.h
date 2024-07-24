@@ -3,8 +3,8 @@
 #include <unordered_map>
 #include <vector>
 #include <iostream>
-#include "./Player/Player.h"
-#include "./Monster/Monster.h"
+#include "../Entity/Player/Player.h"
+#include "../Entity/Monster/Monster.h"
 class Map
 {
 private:

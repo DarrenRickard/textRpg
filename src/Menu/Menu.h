@@ -1,6 +1,6 @@
 #ifndef MENU_H
 #define MENU_H
-#include "../Player/Player.h"
+#include "../Entity/Player/Player.h"
 
 class Menu
 {

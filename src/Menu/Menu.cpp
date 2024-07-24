@@ -42,7 +42,7 @@ bool Menu::handleMenuInput(char *choice, shared_ptr<Player> player)
     {
     case 'c':
     case 'C':
-        /* code */
+        player->showStats();
         break;
 
     case 'i':
